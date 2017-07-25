@@ -2,7 +2,7 @@
 
 是一个自由度极高的飞金币组件，可以支持同时飞多组金币动画，并且内部会收集和缓存对象避免浏览器的`major GC`，具备非常好的性能。
 
-[view-demo](https://jasonchen1982.github.io/jcc2d-flycoins/examples/)
+[view-demo](https://jcc2d.github.io/jcc2d-flycoins/examples/)
 
 ### 用法
 
